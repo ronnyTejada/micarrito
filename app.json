@@ -5,7 +5,18 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "21da6457-198f-463b-a13c-b7a879e43ec4"
+      }
+    },
+    "android": {
+      "package": "com.rjtdev.micarrito"
+    }
   },
-  "name": "micarrito"
+  "name": "micarrito",
+  "react-naive-google-mobile-ads":{
+    "android_app_id":"ca-app-pub-7727476561890859~8804153050"
+  }
 }

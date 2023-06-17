@@ -1,0 +1,1 @@
+export const loginTitle = 'Bienvenido de vuelta te extrañamos.'
